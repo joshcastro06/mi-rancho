@@ -1,0 +1,15 @@
+{
+  "title": "Mi Rancho",
+  "description": "Gestión ganadera sencilla para registrar alimento, salud, peso y ganancias, aun sin conexión.",
+  "language": "es",
+  "icons": {
+    "icon": "/icon.svg"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
